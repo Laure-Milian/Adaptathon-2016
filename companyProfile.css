@@ -19,35 +19,10 @@
 	margin: 0 50px;
 }
 
-/* Expérience & Parcours */
+/* Cartes jobs */
 
-.ui.list {
-	text-align: left;
-	padding: 10px 50px;
-}
-
-.item {
-	margin-top: 20px;
-}
-
-.ui.list > .item > .content > h3 {
-	color: grey;
-	margin-left: 20px;
-	margin-bottom: 2px;
-}
-
-.ui.list > .item > .content > p {
-	margin-left: 20px;
-} 
-
-.btnExp {
-	margin-top: 30px;
+#cardsJobs {
 	text-align: center;
-}
-
-.ui.list > .btnExp > button {
-	width: 80%;
-	height: 50px;	
 }
 
 /* Contact */
@@ -66,12 +41,3 @@
 	text-decoration: bold;
 	font-size: 16px;
 }
-
-/* Contacts communs 
-
-.contacts.communs {
-	width: 400px;
-	margin: 30px auto;
-	text-align: left;
-	display: inline-block;
-} */
